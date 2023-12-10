@@ -1,8 +1,9 @@
 Bank Management System
 
-This repository contains the source code for a simple Bank Management System written in C. The system allows users to create bank accounts, log in, check balances, transfer money, perform work to earn income, view transaction history, and see online users.
+Welcome to the Bank Management System repository! This C-based system empowers users to manage their bank accounts seamlessly. Below, you'll find an organized overview of its features, usage, and additional notes.
 
-Features
+Features:
+
 Account Management:
 
 Create a new bank account with a unique username and password.
@@ -14,18 +15,19 @@ Upon successful login, users gain access to various banking functionalities.
 Banking Operations:
 
 Check account balance.
-Transfer money to other users (if recipient exists).
-Simulate work to earn income and increase account balance.
+Transfer money to other users (if the recipient exists).
+Simulate work to earn income and increase the account balance.
 View transaction history.
 User Interaction:
 
 Simple command-line interface for user interaction.
 Secure input handling and error messages for a better user experience.
-How to Use
+How to Use:
 
 Execution:
 
-Download the source code and execute ./build.sh in your terminal.
+Download the source code.
+Execute ./build.sh in your terminal.
 Account Management:
 
 Choose option 1 to create a new account.
@@ -41,9 +43,9 @@ Follow on-screen instructions for each operation.
 Logout:
 
 After completing operations, choose option 6 to log out.
-Additional Notes
+Additional Notes:
+
 The system supports a maximum of 50 bank accounts.
 Passwords and usernames have length constraints for security.
 Transaction history is recorded for up to 100 transactions.
 Feel free to explore, use, and modify the code to suit your needs. Happy banking!
-
