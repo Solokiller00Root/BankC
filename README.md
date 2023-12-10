@@ -7,26 +7,37 @@ Features:
 Account Management:
 
 Create a new bank account with a unique username and password.
+
 Validate account credentials to ensure username and password meet specified requirements.
+
 Login:
 
 Users can log in using their username and password.
+
 Upon successful login, users gain access to various banking functionalities.
+
 Banking Operations:
 
 Check account balance.
+
 Transfer money to other users (if the recipient exists).
+
 Simulate work to earn income and increase the account balance.
+
 View transaction history.
+
 User Interaction:
 
 Simple command-line interface for user interaction.
+
 Secure input handling and error messages for a better user experience.
+
 How to Use:
 
 Execution:
 
 Download the source code.
+
 Execute ./build.sh in your terminal.
 
 Account Management:
