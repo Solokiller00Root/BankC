@@ -1,4 +1,3 @@
-
 Bank Management System
 This repository contains the source code for a simple Bank Management System written in C. The system allows users to create bank accounts, log in, check balances, transfer money, perform work to earn income, view transaction history, and see online users.
 
@@ -22,8 +21,6 @@ User Interaction:
 Simple command-line interface for user interaction.
 Secure input handling and error messages for a better user experience.
 How to Use
-
-
 
 Execution:
 
