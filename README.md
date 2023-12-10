@@ -28,24 +28,32 @@ Execution:
 
 Download the source code.
 Execute ./build.sh in your terminal.
+
 Account Management:
 
 Choose option 1 to create a new account.
+
 Enter a unique username and password, following specified length requirements.
 Login:
 
 Choose option 2 to log in.
+
 Enter your username and password to access banking operations.
 Banking Operations:
 
 Choose from options 1 to 6 to perform various banking operations.
+
 Follow on-screen instructions for each operation.
+
 Logout:
 
 After completing operations, choose option 6 to log out.
+
 Additional Notes:
 
 The system supports a maximum of 50 bank accounts.
+
 Passwords and usernames have length constraints for security.
+
 Transaction history is recorded for up to 100 transactions.
 Feel free to explore, use, and modify the code to suit your needs. Happy banking!
