@@ -1,6 +1,4 @@
 
-Certainly! Here is a description for your repository:
-
 Bank Management System
 This repository contains the source code for a simple Bank Management System written in C. The system allows users to create bank accounts, log in, check balances, transfer money, perform work to earn income, view transaction history, and see online users.
 
